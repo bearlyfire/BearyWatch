@@ -1,0 +1,20 @@
+## Interface: 30300
+## Title: Bearywatch
+## Notes: Аналитика EPGP
+## Author: Медведж
+## Dependencies: EPGP
+## SavedVariables: BearyWatchDB
+## Version: 1.0
+## X-Sirus-Update: https://github.com/bearlyfire/Bearywatch/tree/master
+## X-Sirus-Category: 13
+
+BearyWatch_LootRules.lua
+Bearywatch.lua
+BearyWatch_Data.lua
+BearyWatch_Graph.lua
+BearyWatch_Analysis.lua
+BearyWatch_Loot.lua
+BearyWatch_MainUI.lua
+BearyWatch_DropLine.lua
+BearyWatch_BossLoot.lua
+BearyWatch_Startup.lua
