@@ -4,9 +4,9 @@
 ## Author: Медведж
 ## Dependencies: EPGP
 ## SavedVariables: BearyWatchDB
-## Version: 1.0
+## Version: 1.01
 ## X-Sirus-Update: https://github.com/bearlyfire/Bearywatch/tree/master
-## X-Sirus-Category: 13
+## X-Sirus-Category: 14
 
 BearyWatch_LootRules.lua
 Bearywatch.lua
