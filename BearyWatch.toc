@@ -4,7 +4,7 @@
 ## Author: Медведж
 ## Dependencies: EPGP
 ## SavedVariables: BearyWatchDB
-## Version: 1.01
+## Version: 1.1
 ## X-Sirus-Update: https://github.com/bearlyfire/Bearywatch/tree/master
 ## X-Sirus-Category: 14
 
